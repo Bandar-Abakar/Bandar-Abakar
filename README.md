@@ -11,9 +11,18 @@
   <img src="https://komarev.com/ghpvc/?username=Bandar-Abakar&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Shipping%20since-2025-7aa2f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Projects%20built-14%2B-bb9af7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Products%20live-2-9ece6a?style=flat-square" />
+</p>
+
 ---
 
 ### What I'm building
+
+> Been building nonstop since 2025 — 14+ projects, two products in production, and still shipping every week.
+
 
 - **🌙 Battut** — Founder. A Shariah-compliant social platform (Instagram/Twitter for the Muslim community), built values-first. One codebase → PWA **and** native iOS/Android, plus a moderation dashboard, advertiser portal, and marketing site. I set the direction, and I'm still in the codebase.
 - **🌾 JomLocal** — Founder. Hyperlocal discovery for Perlis, Malaysia — fully bilingual (EN / Bahasa Melayu). Locals find authentic places; businesses advertise through a token-powered ad marketplace.
