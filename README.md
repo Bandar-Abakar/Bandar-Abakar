@@ -60,13 +60,31 @@
 
 ---
 
-### 🚀 Selected work
+### 🚀 Flagship products
 
 | Project | What it is |
 |---|---|
-| **[Battut](https://app.battut.app)** | Shariah-compliant social platform — PWA + native iOS/Android from one codebase. Community moderation (*Shariah Guard*), a watch-to-earn token, benefit-first feed ranking, full RTL/i18n. |
-| **JomLocal** | Two-sided hyperlocal discovery for Perlis, Malaysia. Bilingual (EN/BM), token-powered ad marketplace, mobile app + merchant & admin portals. |
-| **[al-bahith-mobile](https://github.com/Bandar-Abakar/al-bahith-mobile)** | Mobile app built with React Native / TypeScript. |
+| **🌙 [Battut](https://app.battut.app)** | Shariah-compliant social platform — PWA + native iOS/Android from one codebase. Community moderation (*Shariah Guard*), a watch-to-earn token, benefit-first feed ranking, full RTL/i18n. |
+| **🌾 JomLocal** | Two-sided hyperlocal discovery for Perlis, Malaysia. Bilingual (EN/BM), token-powered ad marketplace, mobile app + merchant & admin portals. |
+
+### 🧱 More I've built
+
+| Project | Lang | About |
+|---|---|---|
+| **BattutAI** 🔒 | Python | AI services powering Battut |
+| **[al-bahith-mobile](https://github.com/Bandar-Abakar/al-bahith-mobile)** 🌐 | TypeScript | Al-Bahith — mobile app |
+| **al-bahith-backend** 🔒 | — | Backend for Al-Bahith |
+| **AIcunsultant** 🔒 | TypeScript | AI consultant assistant |
+| **accounting-ai** 🔒 | HTML | AI-assisted accounting |
+| **Multaqa-Al-Bayan** 🔒 | JavaScript | Community / forum platform |
+| **Snake-ish** 🔒 | TypeScript | Snake game |
+| **kleanku** 🔒 | TypeScript | — |
+| **meigastudy** 🔒 | TypeScript | — |
+| **Maigamanagement** 🔒 | TypeScript | — |
+| **mactab** 🔒 | TypeScript | — |
+| **propheticmission** 🔒 | JavaScript | — |
+
+<sub>🌐 public · 🔒 private (most of my work) — links point to live products where available.</sub>
 
 ---
 
