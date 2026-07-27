@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://app.battut.app"><img src="https://img.shields.io/badge/Battut-7aa2f7?style=for-the-badge&logoColor=1a1b27" /></a>
+  <a href="https://linkedin.com/in/bandar-abakar-73abb8202"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bandar@battut.app"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Bandar-Abakar&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" />
 </p>
